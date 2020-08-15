@@ -1,0 +1,109 @@
+# depslib dependency file v1.0
+1597274302 source:c:\users\aishwarya\desktop\c_programs\unity_testing_new\main.c
+	<stdio.h>
+	<stdlib.h>
+	"test_primeNum.h"
+
+1597272404 c:\users\aishwarya\desktop\c_programs\unity_testing_new\primenum.h
+
+1597274302 c:\users\aishwarya\desktop\c_programs\unity_testing_new\test_primenum.h
+
+1597274569 source:c:\users\aishwarya\desktop\c_programs\unity_testing_new\unity.c
+	"unity.h"
+	<stddef.h>
+	<avr/pgmspace.h>
+
+1597274302 c:\users\aishwarya\desktop\c_programs\unity_testing_new\unity.h
+	"unity_internals.h"
+
+1597274862 c:\users\aishwarya\desktop\c_programs\unity_testing_new\unity_internals.h
+	"unity_config.h"
+	<setjmp.h>
+	<math.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdint.h>
+	<limits.h>
+	<stdio.h>
+	<stdio.h>
+	<time.h>
+	<time.h>
+
+1597274943 source:c:\users\aishwarya\desktop\c_programs\unity_testing_new\test_primenum.c
+	<stdbool.h>
+	"unity.h"
+	"primenum.h"
+
+1597274302 source:c:\users\aishwarya\desktop\c_programs\primenum_unitytest\main.c
+	<stdio.h>
+	<stdlib.h>
+	"test_primeNum.h"
+
+1597274302 c:\users\aishwarya\desktop\c_programs\primenum_unitytest\test_primenum.h
+
+1597320542 source:c:\users\aishwarya\desktop\c_programs\primenum_unitytest\test_primenum.c
+	<stdbool.h>
+	"unity.h"
+	"primenum.h"
+
+1597319785 c:\users\aishwarya\desktop\c_programs\primenum_unitytest\primenum.h
+	<stdbool.h>
+
+1597274302 c:\users\aishwarya\desktop\c_programs\primenum_unitytest\unity.h
+	"unity_internals.h"
+
+1597274862 c:\users\aishwarya\desktop\c_programs\primenum_unitytest\unity_internals.h
+	"unity_config.h"
+	<setjmp.h>
+	<math.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdint.h>
+	<limits.h>
+	<stdio.h>
+	<stdio.h>
+	<time.h>
+	<time.h>
+
+1597274569 source:c:\users\aishwarya\desktop\c_programs\primenum_unitytest\unity.c
+	"unity.h"
+	<stddef.h>
+	<avr/pgmspace.h>
+
+1597320082 source:c:\users\aishwarya\desktop\c_programs\primenum_unitytest\primenum.c
+	"primenum.h"
+
+1597274569 source:c:\users\aishwarya\desktop\c_programs\primenum_unitytest\unity\unity.c
+	"unity.h"
+	<stddef.h>
+	<avr/pgmspace.h>
+
+1597274302 c:\users\aishwarya\desktop\c_programs\primenum_unitytest\unity\unity.h
+	"unity_internals.h"
+
+1597274862 c:\users\aishwarya\desktop\c_programs\primenum_unitytest\unity\unity_internals.h
+	"unity_config.h"
+	<setjmp.h>
+	<math.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdint.h>
+	<limits.h>
+	<stdio.h>
+	<stdio.h>
+	<time.h>
+	<time.h>
+
+1597476631 c:\users\aishwarya\desktop\c_programs\primenum_unitytest\test\test_primenum.h
+
+1597335108 source:c:\users\aishwarya\desktop\c_programs\primenum_unitytest\src\primenum.c
+	"primenum.h"
+
+1597475107 c:\users\aishwarya\desktop\c_programs\primenum_unitytest\inc\primenum.h
+	<stdbool.h>
+
+1597320542 source:c:\users\aishwarya\desktop\c_programs\primenum_unitytest\test\test_primenum.c
+	<stdbool.h>
+	"unity.h"
+	"primenum.h"
+
